@@ -1,9 +1,7 @@
 # Hello, I'm William
-<a href="www.linkedin.com/in/william-m-673987120"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/william-m-673987120/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a current student about to graduate with an Associate's degree in Cyber Security with plans to complete a Bachelor's in the future.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
